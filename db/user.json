@@ -1,0 +1,34 @@
+[
+    {
+        "id": "44e9a91b-a7c7-41c6-bfe0-347aebafeee5",
+        "username": "user1",
+        "email": "user1@mail.com",
+        "password": "user1",
+        "role": "user",
+        "age": "20"
+    },
+    {
+        "id": "e9134426-4089-4c7b-83a6-338647e9f9d4",
+        "username": "admin1",
+        "email": "admin1@mail.com",
+        "password": "admin1",
+        "role": "admin",
+        "age": "24"
+    },
+    {
+        "id": "268ecace-ec6e-4c96-af6b-237bc1a72da9",
+        "username": "driver1",
+        "email": "driver1@mail.com",
+        "password": "driver1",
+        "role": "user",
+        "age": "32"
+    },
+    {
+        "id": "4bfa26eb-5d45-4eb1-9daa-4a01fce27da3",
+        "username": "driver2",
+        "email": "driver2@mail.com",
+        "password": "driver2",
+        "role": "user",
+        "age": "38"
+    }
+]

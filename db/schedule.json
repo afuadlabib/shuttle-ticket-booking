@@ -1,0 +1,42 @@
+[
+    {
+        "id": "fee06d4d-8a7c-4993-b06d-1217157c61a5",
+        "time": "14:00",
+        "origin": "jakarta",
+        "destination": "bandung",
+        "price": 140000,
+        "estimation": "3.50",
+        "armada_id": "4826b64b-1471-4ce4-b406-29007f82ad6f",
+        "driver_id": "800620b2-68f6-4348-a3f1-40059036efbb"
+    },
+    {
+        "id": "41e554ee-6e3d-4e36-8abe-6d622f2ed276",
+        "time": "20:00",
+        "origin": "jakarta",
+        "destination": "bandung",
+        "price": 155000,
+        "estimation": "3.50",
+        "armada_id": "58f83268-5848-44c2-8e80-aa5ed609531e",
+        "driver_id": "63eee09d-ed89-43d1-aadc-f14e2455b38c"
+    },
+    {
+        "id": "a54d7b42-3aef-42d3-9876-11e4f4664acd",
+        "time": "14:00",
+        "origin": "bandung",
+        "destination": "jakarta",
+        "price": 140000,
+        "estimation": "3.50",
+        "armada_id": "4d80f97f-44e1-4b1a-ba0c-a920516bdbb3",
+        "driver_id": "800620b2-68f6-4348-a3f1-40059036efbb"
+    },
+    {
+        "id": "88854ed3-9eb4-40a8-b148-a4166a37448b",
+        "time": "20:00",
+        "origin": "bandung",
+        "destination": "jakarta",
+        "price": 155000,
+        "estimation": "3.50",
+        "armada_id": "bfd63fab-4292-4c12-a477-8685d3a100a3",
+        "driver_id": "63eee09d-ed89-43d1-aadc-f14e2455b38c"
+    }
+]

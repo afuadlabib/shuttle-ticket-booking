@@ -1,0 +1,30 @@
+[
+    {
+        "id": "4826b64b-1471-4ce4-b406-29007f82ad6f",
+        "name": "armada jakarta 1",
+        "color": "orange",
+        "plate_number": "B 1212 XXX",
+        "seat_id": "7bdf87b6-547f-4265-a7aa-4ba653befadc"
+    },
+    {
+        "id": "58f83268-5848-44c2-8e80-aa5ed609531e",
+        "name": "armada jakarta 2",
+        "color": "orange",
+        "plate_number": "B 1214 XXX",
+        "seat_id": "7bdf87b6-547f-4265-a7aa-4ba653befadc"
+    },
+    {
+        "id": "4d80f97f-44e1-4b1a-ba0c-a920516bdbb3",
+        "name": "armada bandung 1",
+        "color": "biru",
+        "plate_number": "B 1215 XXX",
+        "seat_id": "7bdf87b6-547f-4265-a7aa-4ba653befadc"
+    },
+    {
+        "id": "bfd63fab-4292-4c12-a477-8685d3a100a3",
+        "name": "armada bandung 2",
+        "color": "orange",
+        "plate_number": "B 1216 XXX",
+        "seat_id": "7bdf87b6-547f-4265-a7aa-4ba653befadc"
+    }
+]
