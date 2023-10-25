@@ -3,7 +3,7 @@
     "username": "postgres",
     "password": "postgres",
     "database": "database_ipro",
-    "host": "127.0.0.1",
+    "host": "192.168.18.11",
     "dialect": "postgres"
   },
   "test": {
